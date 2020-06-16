@@ -1,0 +1,21 @@
+{
+	"name": "daraja-node",
+	"version": "1.0.0",
+	"description": "A  Node Js project consuming Mpesa Daraja API",
+	"main": "app.js",
+	"scripts": {
+		"start": "nodemon app.js"
+	},
+	"keywords": [
+		"m-pesa",
+		"safaricom",
+		"api",
+		"m-pesa",
+		"api"
+	],
+	"license": "ISC",
+	"dependencies": {
+		"moment": "^2.26.0",
+		"nodemon": "^2.0.4"
+	}
+}
